@@ -81,7 +81,7 @@ export default function Weather(props) {
         </div>
         <WeatherForecast coordinates={weather.coordinates} />
         <a
-          href="https://github.com/mitramohammadi/weather-react"
+          href="https://github.com/mitramohammadi/react-weather-app"
           rel="noreferrer"
           target="_blank"
         >
