@@ -73,8 +73,8 @@ export default function Weather(props) {
                 <span>{weather.description}</span>
               </li>
               <li>
-                <span>Humidity :{weather.humidity}% </span>
-                <span> Wind :{weather.wind} km/h</span>
+                <span>Humidity: {weather.humidity}% </span>
+                <span> Wind: {weather.wind} km/h</span>
               </li>
             </ul>
           </div>
